@@ -3,4 +3,4 @@ Maps of Owen County, KY and its change over time
 
 
 
-https://ion.cesium.com/stories/editor/?id=6230cda9-8970-469a-a1d1-5e756e0fb4eb#slide-id-305485 
+https://ion.cesium.com/stories/viewer/?id=6230cda9-8970-469a-a1d1-5e756e0fb4eb
