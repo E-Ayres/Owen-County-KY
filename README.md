@@ -16,3 +16,12 @@ Much of the change seen consists of the addition or subtraction of buildings and
 The change around Elmer Davis Lake ![ElmerDavis](https://github.com/user-attachments/assets/88081b98-d48c-4e8d-9c03-0f9bfa72f501)
 This is most likely the removal of trees and vegetation around the banks of the lake.
 
+The change around the high school and middle school. ![ocs](https://github.com/user-attachments/assets/1ff743b1-98f7-4cff-930b-33a53f4b042d)
+This change is due to the addition of the new school buildings, Owen County High School was built in 2002 and Maurice Bowling Middle was completed in 2011.
+
+The change where the new courthouse is located. ![courthouse](https://github.com/user-attachments/assets/75021c83-3aa0-466a-9ca5-ca95a78236b0)
+This change is the location of the new Owen County courthouse, completed around 2013, across the road is the CHFS office, completed around 2004.
+
+Maps created by E-Ayres for GEO 409, Spring 2025
+
+Created using ArcGIS Pro, Cesium Ion, KY From Above Data, NAIP, and Lidar for point cloud data.
